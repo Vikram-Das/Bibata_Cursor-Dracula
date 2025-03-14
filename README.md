@@ -75,6 +75,7 @@ And with that, my journey in the world of open source began.
     -   **Bibata Modern Classic:** Black and rounded edge bibata cursors.
     -   **Bibata Original Ice:** White and sharp edge bibata cursors.
     -   **Bibata Modern Ice:** White and rounded edge bibata cursors.
+    -   **Bibata Modern Dracula**
 -   Right Hand
     -   **Bibata Original Amber Right:** Yellowish and sharp edge right-hand bibata cursors.
     -   **Bibata Modern Amber Right:** Yellowish and rounded edge right-hand bibata cursors.
