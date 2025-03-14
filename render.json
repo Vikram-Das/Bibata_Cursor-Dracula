@@ -8,6 +8,15 @@
       { "match": "#FF0000", "replace": "#001524" }
     ]
   },
+  "Bibata-Modern-Dracula": {
+    "dir": "svg/modern",
+    "out": "bitmaps/Bibata-Modern-Amber",
+    "colors": [
+      { "match": "#00FF00", "replace": "#282A36" },
+      { "match": "#0000FF", "replace": "#F8F8F2" },
+      { "match": "#FF0000", "replace": "#44475A" }
+    ]
+  },
   "Bibata-Modern-Amber-Right": {
     "dir": "svg/modern-right",
     "out": "bitmaps/Bibata-Modern-Amber-Right",
